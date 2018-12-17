@@ -1,0 +1,3 @@
+[submodule "my_plugins/swifty-vim"]
+	path = my_plugins/swifty-vim
+	url = https://github.com/bluk/swifty-vim.git
